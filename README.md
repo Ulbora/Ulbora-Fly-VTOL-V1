@@ -1,6 +1,6 @@
 # Ulbora-Fly-VTOL-V1
 
-Because the wing area is relatively small (~1 meter span with a narrow chord), this drone will
+Because the wing area is relatively small (1 meter span with a narrow chord), this drone will
 have high wing loading. It will fly like a "brick" if printed in standard PLA. To achieve the "extended
 time" you want, you must optimize the material and battery choice.
 The Performance Estimates
@@ -9,6 +9,7 @@ Flight Performance Predictions
 Cruising Capability
 Estimated RangeFlight TimeCruising SpeedStall Speed
 18453818
+
 Miles (30 km)Minutes (Cruise)MPH (60 kph)MPH (29 kph)
 The "Flying Brick" Risk Factor
 This table compares two build materials. You must use LW-PLA (foaming filament) for this design.
@@ -23,10 +24,8 @@ range Li-Ion pack, which is 30% lighter than a standard Li-Po drone battery.
 Recommended Battery: 4S2P 18650 Pack (Samsung 35E or MJ1 cells).
 Configuration: 8 cells (4 series, 2 parallel).
 Fit: 4 cells wide (73mm) x 2 layers high (37mm). Fits easily inside the 78x48mm bay.
+
 Capacity: 7,000 mAh.
-https://www.google.com/search?q=i+have+a+python+script+that+creates+a+vtol+drone.+can+you+modify+the+script+to+add+a+pusher+mot…
-1/27/31/26, 4:22 PM
-i have a python script that creates a vtol drone. can you modify the script to add a pusher motor mount? - Google Search
 Weight: ~400g.
 Voltage: 14.8V (Cruise at ~3-4 Amps).
 Next Steps for Success
