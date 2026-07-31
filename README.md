@@ -28,6 +28,7 @@ Fit: 4 cells wide (73mm) x 2 layers high (37mm). Fits easily inside the 78x48mm 
 Capacity: 7,000 mAh.
 Weight: ~400g.
 Voltage: 14.8V (Cruise at ~3-4 Amps).
+
 Next Steps for Success
 1. Slicer Settings: Do NOT print this solid. Set your slicer to 0% Infill and 2 Perimeters (Walls).
 The Part.makeLoft command creates a solid block; the slicer is responsible for making it a
